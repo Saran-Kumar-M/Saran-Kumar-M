@@ -9,8 +9,6 @@
 
 - 🔭 **E-Commerce Website - (https://tonys-mern-stack-ecommerce.onrender.com/)**
 
-- 🌱 I’m currently learning **Reactjs , React native**
-
 - 👨‍💻 All of my projects are available at(currently building) [https://saran-kumar.netlify.app/](https://saran-kumar.netlify.app/)
 
 - 📫 How to reach me   -- **tonysaran80@gmail.com**
